@@ -19,8 +19,8 @@
   "author": "Mark Hepburn",
   "dependencies": {},
   "peerDependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
+    "react": ">15",
+    "react-dom": ">15",
     "react-leaflet": "^1.6.4"
   },
   "devDependencies": {
